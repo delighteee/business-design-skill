@@ -46,10 +46,18 @@ A non-linear five-stage process: Empathize & Explore → Define → Ideate → P
 ```
 business-design-skill/
 ├── README.md
-└── SKILL.md                          ← Main skill file
+├── SKILL.md                          ← Main skill file
+└── references/
+    ├── industry-analysis.md
+    ├── competitor-analysis.md
+    ├── business-strategy.md
+    ├── business-models.md
+    ├── numerical-prototyping.md
+    ├── design-metrics.md
+    ├── business-metrics.md
+    ├── economics-101.md
+    └── pre-project-questions.md
 ```
-
-> **Note:** The framework reference library (industry analysis, competitor research, business models, numerical prototyping, design metrics, and more) is not included in this repo. DM me on [LinkedIn](#) if you'd like access to the full reference files.
 
 ---
 
@@ -58,8 +66,8 @@ business-design-skill/
 ### Option 1 — Claude Projects (Recommended)
 1. Open [claude.ai](https://claude.ai) and create a new **Project**
 2. In Project settings, paste the contents of `SKILL.md` into the **Custom Instructions** field
-3. Start a conversation — Claude will apply the business design context automatically
-4. Want the full framework reference library? DM me on LinkedIn for access
+3. Upload the `references/` files as project knowledge
+4. Start a conversation — Claude will apply the business design context automatically
 
 ### Option 2 — Cowork (Desktop App)
 1. Place the entire `business-design-skill/` folder inside your Cowork skills directory
