@@ -95,7 +95,7 @@ Once the skill is loaded, try these to see it in action:
 
 ## About the Author
 
-Senior Product Designer with experience across fintech and digital products. d.MBA alumnus. MBA student at Valar Institute. Passionate about the intersection of design thinking and business strategy — and building AI workflows that make that thinking accessible.
+Tolulope Oyewumi is a Senior Product Designer with experience across fintech and digital products. d.MBA alumnus. MBA student at Valar Institute. Passionate about the intersection of design thinking and business strategy — and building AI workflows that make that thinking accessible. Find me on [LinkedIn](https://www.linkedin.com/in/tolulopeoyewumi/)
 
 ---
 
