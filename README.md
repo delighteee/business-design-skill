@@ -121,12 +121,3 @@ MIT — free to use, adapt, and share. Attribution appreciated but not required.
  
 This skill was informed by the d.MBA guide library — a collection of in-depth essays and tools at the intersection of design and business, written by [Alen Faljic](https://d.mba/about) and free business resources from [Valar Institute](https://valar.quantic.edu/).
  
-Specific guides that shaped this skill:
- 
-- [What Is Business Design and How Do I Become a Business Designer?](https://d.mba/guides/what-is-business-design-guide)
-- [How to become a more strategically minded designer?](https://d.mba/guides/how-to-become-a-more-strategically-minded-designer)
-- [13 business questions for your next design project](https://d.mba/guides/13-business-questions-for-design-projects)
-- [5 Fundamental economics concepts that will make you a better designer](https://d.mba/guides/design-mba-economics-101)
-- [How to estimate the ROI of design work?](https://d.mba/guides/how-to-estimate-the-roi-of-design-work)
-- [7 Things Every Designer Should Know About Business](https://d.mba/guides/7-things-designer-should-know-about-business)
- 
